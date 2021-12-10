@@ -1,6 +1,7 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=uppercase-UC&color=blueviolet" alt="uppercase">
 
-# Hi there 👋
+<h1 align="center">Hi there 👋, I'm ekloyatri</h1>
+<h3 align="center">just learning...</h3>
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
