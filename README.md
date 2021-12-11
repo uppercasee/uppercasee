@@ -3,6 +3,12 @@
 <h1 align="center">Hi there 👋, I'm ekloyatri</h1>
 <h3 align="center">just learning...</h3>
 
+- 🔭 I’m currently working on `idk`
+- 🌱 I’m currently learning  `idk either`
+- 👯 I’m looking to collaborate with `idk this too`
+
+### <hr>
+
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -16,8 +22,8 @@
 
 <br>
 
-![uppercase's GitHub stats](https://github-readme-stats.vercel.app/api?username=uppercase-UC&show_icons=true&theme=highcontrast)
+![uppercase's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekloyatri&show_icons=true&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uppercase-UC&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekloyatri&layout=compact&theme=highcontrast)
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=uppercase-uc&theme=highcontrast)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ekloyatri&theme=highcontrast)
