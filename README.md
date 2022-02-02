@@ -1,5 +1,5 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=uppercase-UC&color=blueviolet" alt="uppercase">
-
+<!---
 <h1 align="center">Hi there 👋, I'm ekloyatri</h1>
 <h3 align="center">just learning...</h3>
 
@@ -23,7 +23,8 @@
 <br>
 
 ![uppercase's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekloyatri&show_icons=true&theme=highcontrast)
-
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ekloyatri&theme=highcontrast)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekloyatri&layout=compact&theme=highcontrast)
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ekloyatri&theme=highcontrast)
+
