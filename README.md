@@ -1,4 +1,4 @@
-<img align ="right" src="https://komarev.com/ghpvc/?username=ekloyatri&color=blueviolet" alt="uppercase">
+<img align ="right" src="https://komarev.com/ghpvc/?username=3kl0y47r1&color=blueviolet" alt="uppercase">
                                                                            
 <!---
 <h1 align="center">Hi there 👋, I'm ekloyatri</h1>
@@ -28,5 +28,5 @@
 -->
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekloyatri&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3kl0y47r1&layout=compact&theme=github_dark)
 
