@@ -9,5 +9,5 @@
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=uppercasee&theme=highcontrast)
 
-## 🎧 listening to:
-![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=g8tveadcopoan4zub26am8xyy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
+<!-- ## 🎧 listening to: -->
+<!-- ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=g8tveadcopoan4zub26am8xyy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true) -->
