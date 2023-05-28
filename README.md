@@ -4,8 +4,7 @@
          width="45" />, I'm uppercase </h1>
 <h5 align="center">
 
-<img align ="right" src="https://komarev.com/ghpvc/?username=3kl0y47r1&color=blueviolet" alt="uppercase">
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=3kl0y47r1&color=0e75b6" alt="uppercase"> </p>
 ## STATS
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uppercasee&layout=compact&theme=tokyonight) -->
 
