@@ -4,7 +4,7 @@
          width="45" />, I'm uppercase </h1>
 <h5 align="center">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=3kl0y47r1&color=fe428e" alt="uppercase"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uppercasee&color=fe428e" alt="uppercase"> </p>
 
 <p>
 <!-- <a align= "center" href="https://github.com/uppercasee"> -->
