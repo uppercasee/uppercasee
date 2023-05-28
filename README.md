@@ -7,16 +7,15 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=3kl0y47r1&color=0e75b6" alt="uppercase"> </p>
 
 <p>
-<a align= "center" href="https://github.com/uppercasee">
+<!-- <a align= "center" href="https://github.com/uppercasee"> -->
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=uppercasee&theme=radical">
-
-<br>
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
-<br>
 </p>
-
+<p>
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+</p>
+<p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=uppercasee&count_private=true&theme=radical&show_icons=true" />
-
+</p>
 
 
 <!-- ## STATS -->
