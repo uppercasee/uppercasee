@@ -8,7 +8,7 @@
 
 <p>
 <!-- <a align= "center" href="https://github.com/uppercasee"> -->
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=uppercasee&theme=radical">
+<img align="left" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=uppercasee&theme=radical">
 </p>
 <p>
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
