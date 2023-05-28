@@ -11,3 +11,7 @@
 
 <!-- ## 🎧 listening to: -->
 <!-- ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=g8tveadcopoan4zub26am8xyy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true) -->
+
+<p align="center">
+  <img src="https://github.com/uppercasee/uppercasee/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
