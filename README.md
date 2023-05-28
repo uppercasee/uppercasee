@@ -14,7 +14,7 @@
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
 <p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=uppercasee&count_private=true&theme=radical&show_icons=true" />
+<img align="left" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=uppercasee&count_private=true&theme=radical&show_icons=true" />
 </p>
 
 
