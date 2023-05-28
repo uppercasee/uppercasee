@@ -11,7 +11,7 @@
 <img align="left" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=uppercasee&theme=radical">
 </p>
 <p>
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<img align="right" height="400" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
 <p>
 <img align="left" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=uppercasee&count_private=true&theme=radical&show_icons=true" />
