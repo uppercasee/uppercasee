@@ -13,9 +13,13 @@
 <!-- <p>
 <img align="right" height="400" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p> -->
-<p>
+<!-- <p>
 <img align="right" height="400" width="400" src="./code.gif" /> </a>
+</p> -->
+<p>
+<img align="right" height="400" width="400" src="./68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" /> </a>
 </p>
+
 <p>
 <img align="left" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=uppercasee&count_private=true&theme=radical&show_icons=true" />
 </p>
