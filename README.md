@@ -17,7 +17,7 @@
 <img align="right" height="400" width="400" src="./code.gif" /> </a>
 </p> -->
 <p>
-<img align="right" height="400" width="400" src="./code1.gif" /> </a>
+<img align="right" height="400" width="400" src="./Assets/code1.gif" /> </a>
 </p>
 
 <p>
