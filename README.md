@@ -6,22 +6,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uppercasee&color=fe428e" alt="uppercase"> </p>
 
-<p>
-<!-- <a align= "center" href="https://github.com/uppercasee"> -->
-<img align="left" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=uppercasee&theme=radical">
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+<p align="center">
+  <img alt= "stats card" height="200px" width="370" src="https://github-readme-streak-stats.herokuapp.com/?user=uppercasee&theme=radical">
+  <img height="200px" width="370" src="https://github-readme-stats-sigma-five.vercel.app/api?username=uppercasee&count_private=true&theme=radical&show_icons=true" />
 </p>
+<p align="center">
+  <img src="https://github.com/uppercasee/uppercasee/raw/output/github-contribution-grid-snake.svg" align="center" alt="snake"></center>
+</p>
+
 <!-- <p>
 <img align="right" height="400" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p> -->
 <!-- <p>
 <img align="right" height="400" width="400" src="./code.gif" /> </a>
 </p> -->
-<p>
+<!-- <p>
 <img align="right" height="400" width="400" src="./Assets/distorted.gif" /> </a>
-</p>
+</p> -->
 
-<p>
-<img align="left" height="200px" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=uppercasee&count_private=true&theme=radical&show_icons=true" />
 <!-- <img align="left" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=uppercasee&count_private=true&theme=radical&show_icons=true" /> -->
 </p>
 
@@ -37,7 +40,3 @@
 
 <!-- ## 🎧 listening to: -->
 <!-- ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=g8tveadcopoan4zub26am8xyy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true) -->
-
-<p align="center">
-  <img src="https://github.com/uppercasee/uppercasee/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
