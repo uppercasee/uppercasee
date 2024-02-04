@@ -1,18 +1,14 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm uppercase </h1>
-<h5 align="center">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm uppercase </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uppercasee&color=fe428e" alt="uppercase"> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=uppercasee&color=fe428e" alt="uppercase"> </p>
 
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
 <p align="center">
-  <img alt= "stats card" height="200px" width="370" src="https://github-readme-streak-stats.herokuapp.com/?user=uppercasee&theme=radical">
-  <img height="200px" width="370" src="https://github-readme-stats-sigma-five.vercel.app/api?username=uppercasee&count_private=true&theme=radical&show_icons=true" />
+  <img alt= "stats card" height="auto" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uppercasee&theme=radical">
+  <img height="auto" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=uppercasee&count_private=true&theme=radical&show_icons=true" />
 </p>
 <p align="center">
   <img src="https://github.com/uppercasee/uppercasee/raw/output/github-contribution-grid-snake.svg" align="center" alt="snake"></center>
