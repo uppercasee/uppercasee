@@ -7,8 +7,9 @@
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
 <p align="center">
-  <img alt= "stats card" height="auto" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uppercasee&theme=radical">
-  <img height="auto" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=uppercasee&count_private=true&theme=radical&show_icons=true" />
+  <img alt="streaks_card" height="auto" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uppercasee&theme=radical">
+  <img alt="stats_card" height="auto" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=uppercasee&count_private=true&theme=radical&show_icons=true" />
+  <img alt="MostUsedLanguage_card" height="auto" width="50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=uppercasee&layout=compact&hide_border=true&theme=radical&langs_count=4&hide=jupyter%20notebook,tex,css,php">
 </p>
 <p align="center">
   <img src="https://github.com/uppercasee/uppercasee/raw/output/github-contribution-grid-snake.svg" align="center" alt="snake"></center>
