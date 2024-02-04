@@ -1,15 +1,11 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm uppercase </h1>
-
-<br>
-
-<img src="/Assets/banner_text.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
-
-<br>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=uppercasee&color=fe428e" alt="uppercase"> </p>
 
+<br>
+<p align="center">
+  <img src="/Assets/banner_text.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+</p>
 
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> 
 
 <p align="center">
   <img alt="streaks_card" height="auto" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uppercasee&theme=radical">
