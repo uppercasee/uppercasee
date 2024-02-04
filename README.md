@@ -1,8 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm uppercase </h1>
 
+<br>
 
 <img src="/Assets/banner_text.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
+<br>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=uppercasee&color=fe428e" alt="uppercase"> </p>
 
